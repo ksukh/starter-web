@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Analyst john.analyst@training.com @awesometweet
 
 # THANKS
 
